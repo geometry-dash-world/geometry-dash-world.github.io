@@ -8893,7 +8893,7 @@ button.bg-dark:hover {
 
 .ml-auto,
 .mx-auto {
-    margin-left: auto !important
+    margin-left: 10%;
 }
 
 @media (min-width:576px) {
